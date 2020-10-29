@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Install packages
+# ================
+
+apt update -y
+apt ugrade -y
+apt install -y zsh git vim tmux man-db tree
+
